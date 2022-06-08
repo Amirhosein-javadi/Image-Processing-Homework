@@ -7,4 +7,4 @@ Input Image : <br/>
 <img src="texture1.jpg" width="300" height="400"> <br/>
 
 Texture Synthesis : <br/>
-<img src="Result.jpg" width="800" height="800"> <br/>
+<img src="Texture-Synthesis.jpg" width="800" height="800"> <br/>
